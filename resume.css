@@ -631,7 +631,7 @@ section:nth-child(2n + 1) {
     height: 100%;
     color: transparent;
     text-align: center;
-    padding: 84px;             /* Added by Me */
+    padding: 44px;             /* Added by Me */
 }
 
 .portfolio-image-container:hover {
